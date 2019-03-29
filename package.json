@@ -1,0 +1,25 @@
+{
+  "name": "parcel-sandbox",
+  "version": "1.0.0",
+  "description": "Simple Parcel Sandbox",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "array-to-tree": "3.3.0",
+    "classnames": "^2.2.6",
+    "font-awesome": "^4.7.0",
+    "prop-types": "15.7.2",
+    "rc-tree": "1.14.10",
+    "react": "15.4.2",
+    "react-autobind": "1.0.6",
+    "react-dom": "15.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1",
+    "sass": "^1.17.3"
+  }
+}
